@@ -3,11 +3,11 @@
 ここでは [Hiroaki-Inomata@GitHub](https://github.com/Hiroaki-Inomata/) にあるいくつかのリポジトリのソフトを紹介します。
 
 
-### [HorliX](htttps://github.com/Hiroaki-Inomata/HorliX)
+### [HorliX](https://github.com/Hiroaki-Inomata/HorliX)
  
 オープンソースの DICOM/PACS Viewer として知られていた Horos を Fork。ただし、open-source version の OsiriX のコードも参考にしています。
  
-### [OpenDolphin-2.7m](htttps://github.com/Hiroaki-Inomata/OpenDolphin-2.7m)
+### [OpenDolphin-2.7m](https://github.com/Hiroaki-Inomata/OpenDolphin-2.7m)
  
 dolphin-dev の OpenDolphin 2.7.0b を Fork。bug fix およびいくつかの機能追加をしています。  
 ただし、メンテナンスは今はしていません。
