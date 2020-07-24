@@ -11,7 +11,8 @@
 ### [OpenDolphin-2.7m](https://github.com/Hiroaki-Inomata/OpenDolphin-2.7m)
   
 dolphin-dev の OpenDolphin 2.7.0b を Fork。bug fix およびいくつかの機能追加をしています。  
-ただし、現在は積極的なメンテナンスはしていません。  
+~~ただし、現在は積極的なメンテナンスはしていません。~~久しぶりにメンテ。[こちら](https://allnightnihon2b.net/blog-jp/?page_id=367)で概要はつかめます。  
+
   
 
 ### [COVID19NGT](https://github.com/Hiroaki-Inomata/COVID19NGT)
