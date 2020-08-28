@@ -18,9 +18,8 @@ dolphin-dev の OpenDolphin 2.7.0b を Fork。bug fix およびいくつかの�
   
 保険請求で使う診療行為・薬剤などのマスタデータをデータベース化して欲しいという要望があって作成。  
 医科でも薬科でも歯科でも使うと思われる医薬品マスタをまず公開。  
-ユーティリティ的なコマンドも同包。dolphin-dev の OpenDolphin 2.7.0b を Fork。bug fix およびいくつかの機能追加をしています。  
+ユーティリティ的なコマンドも同包。  
 　  
-  
 
 ### [COVID19NGT](https://github.com/Hiroaki-Inomata/COVID19NGT)
   
