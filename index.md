@@ -5,20 +5,23 @@
 
 ### [HorliX](https://github.com/Hiroaki-Inomata/HorliX)
   
-オープンソースの DICOM/PACS Viewer として知られていた Horos を Fork。ただし、open-source version の OsiriX のコードも参考にしています。
+オープンソースの DICOM/PACS Viewer として知られていた [Horos](https://allnightnihon2b.net/?page_id=110) を Fork。ただし、open-source version の OsiriX のコードも参考にしています。  
+概要などは『[HorliX -wikipedia風解説-](https://allnightnihon2b.net/?page_id=94)』がよくまとまっています。  
   
 
 ### [OpenDolphin-2.7m](https://github.com/Hiroaki-Inomata/OpenDolphin-2.7m)
   
 dolphin-dev の OpenDolphin 2.7.0b を Fork。bug fix およびいくつかの機能追加をしています。  
+インストール方法は『[OpenDolphin-2.7.0b を win10 にインストールしてみた](https://phazor.info/air/?page_id=543) 』を参考にしてください。  
 ~~ただし、現在は積極的なメンテナンスはしていません。~~ →久しぶりにメンテ。[こちら](https://allnightnihon2b.net/blog-jp/?page_id=367)で概要はつかめます。  
+開発経緯は、『[OpenDolphin について](https://phazor.info/blog-ja/?p=44)』・『[OpenDolphin と電子カルテの３要件とメドレー](https://hiroaki-inomata.fc2.net/blog-entry-12.html)』などをご参照ください。  
 　  
 　  
 ### [orz](https://github.com/Hiroaki-Inomata/orz)
   
 保険請求で使う診療行為・薬剤などのマスタデータをデータベース化して欲しいという要望があって作成。  
 医科でも薬科でも歯科でも使うと思われる医薬品マスタをまず公開。  
-ユーティリティ的なコマンドも同包。  
+ユーティリティ的なコマンドも同包。使い方は『[レセコンソフト ORCA を巡るあれこれ](https://open-ocean-20.blogspot.com/2020/08/orca.html)』をご参考に。    
 　  
 
 ### [COVID19NGT](https://github.com/Hiroaki-Inomata/COVID19NGT)
